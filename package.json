@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mainnika/npm-sockjs-node.git"
+    "url": "git+https://github.com/mainnika/npm-sockjs.git"
   },
   "author": {
     "name": "Nikita Tokarchuk",
@@ -21,9 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mainnika/npm-sockjs-node/issues"
+    "url": "https://github.com/mainnika/npm-sockjs/issues"
   },
-  "homepage": "https://github.com/mainnika/npm-sockjs-node#readme",
+  "homepage": "https://github.com/mainnika/npm-sockjs#readme",
   "devDependencies": {
     "greenkeeper-postpublish": "^1.0.1",
     "sockjs": "^0.3.18",
