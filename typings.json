@@ -1,0 +1,6 @@
+{
+  "name": "sockjs",
+  "main": "index.d.ts",
+  "globalDevDependencies": {
+  }
+}
